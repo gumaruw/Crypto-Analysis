@@ -23,8 +23,8 @@ This project fetches, processes, and analyzes cryptocurrency data using the Coin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/crypto-analysis.git
-   cd crypto-analysis
+   git clone https://github.com/yourusername/Cryptocurrency-Data-Analysis-and-Visualization.git
+   cd Cryptocurrency-Data-Analysis-and-Visualization
 2. **Install Required Libraries:**
    ```bash
    pip install requests pandas matplotlib
